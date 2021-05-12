@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://cervthecoder.github.io/krajinazaskolou/</loc>
+    </url>
+    <url>
+        <loc>https://cervthecoder.github.io/krajinazaskolou/categories/</loc>
+    </url>
+    <url>
+        <loc>https://cervthecoder.github.io/krajinazaskolou/categories/hello-world/</loc>
+    </url>
+    <url>
+        <loc>https://cervthecoder.github.io/krajinazaskolou/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://cervthecoder.github.io/krajinazaskolou/some-article/</loc>
+        <lastmod>2017-09-24</lastmod>
+    </url>
+    <url>
+        <loc>https://cervthecoder.github.io/krajinazaskolou/some-other-article/</loc>
+        <lastmod>2017-09-25</lastmod>
+    </url>
+    <url>
+        <loc>https://cervthecoder.github.io/krajinazaskolou/tags/</loc>
+    </url>
+    <url>
+        <loc>https://cervthecoder.github.io/krajinazaskolou/tags/other/</loc>
+    </url>
+    <url>
+        <loc>https://cervthecoder.github.io/krajinazaskolou/tags/rust/</loc>
+    </url>
+    <url>
+        <loc>https://cervthecoder.github.io/krajinazaskolou/tags/ssg/</loc>
+    </url>
+</urlset>
