@@ -1,7 +1,7 @@
 base_url = "https://cervthecoder.github.io/krajinazaskolou"
 compile_sass = true
 title = "Krajina za školou"
-description = ""
+description = "Stránka, která se zabývá proměnou míst po České republice. Slouží jako jakési album minulosti a součastnosti."
 generate_feed = true
 
 taxonomies = [
@@ -11,4 +11,10 @@ taxonomies = [
 
 [extra]
 author = "Matěj Červenka"
+after_dark_menu = [
+    {url = "$BASE_URL", name = "Home"},
+    {url = "$BASE_URL/categories", name = "Categories"},
+    {url = "$BASE_URL/tags", name = "Tags"},
+    {url = "https://github.com/cervthecoder", name = "GitHub"}
+]
 after_dark_title = "Krajina za školou"
