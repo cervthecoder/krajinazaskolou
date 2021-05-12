@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://cervthecoder.github.io/krajinazaskolou/sitemap.xml
+Sitemap: https://zola-after-dark.netlify.com/sitemap.xml
