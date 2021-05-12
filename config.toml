@@ -11,9 +11,4 @@ taxonomies = [
 
 [extra]
 author = "Matěj Červenka"
-after_dark_menu = [
-    {url = "$BASE_URL", name = "Home"},
-    {url = "$BASE_URL/categories", name = "Categories"},
-    {url = "$BASE_URL/tags", name = "Tags"},
-]
 after_dark_title = "Krajina za školou"
