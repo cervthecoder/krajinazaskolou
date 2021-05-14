@@ -11,6 +11,7 @@ taxonomies = [
 
 [extra]
 author = "Matěj Červenka"
+description = "Stránka, která se zabývá proměnou míst po České republice. Slouží jako jakési album minulosti a součastnosti."
 after_dark_menu = [
     {url = "$BASE_URL", name = "Home"},
     {url = "$BASE_URL/categories", name = "Categories"},
