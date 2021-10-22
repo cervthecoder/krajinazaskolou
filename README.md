@@ -4,7 +4,7 @@
 Stránka byla vytvořena z edukačních důvodů je tedy open-source.
 Pokud si přejete stáhnout data stánky stačí udělat
 ```
-git clone https://github.com/getzola/after-dark.git
+git clone https://github.com/cervthecoder/krajinazaskolou.git
 ```
 
 Copyright © Matěj Červenka 2021
